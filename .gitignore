@@ -2,6 +2,9 @@
 /target
 
 *.bak
+*.fmf
+*.png
+*.db
 files_order.txt
 ignored_words.txt
 last_entry.properties
