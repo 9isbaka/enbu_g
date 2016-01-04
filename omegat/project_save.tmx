@@ -31878,6 +31878,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそんな事態を打開すべく ユキは自身を強くするための修行に出ることを決意するのでした・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T104116Z" creationid="土妹子" creationdate="20160104T104116Z">
+        <seg>\c为了突破这样的事态　雪决心进行修行　让自己变得更强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそんな常識知らずの貴方は人形バトルで成敗してあげる！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150110T023545Z">
@@ -33578,6 +33586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T092350Z" creationid="土妹子" creationdate="20150109T115311Z">
         <seg>\c最初我仅仅是认为世界不够可爱 于是就试着做出了人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c最近は負けを重ねるばかりで 貰ったお小遣いの金貨も使う前に無くなっていく有様です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T103909Z" creationid="土妹子" creationdate="20160104T103909Z">
+        <seg>\c最近只是不断地失败　得到的零花金币也是不用花就没了的样子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73778,6 +73794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T011633Z" creationid="土妹子" creationdate="20150107T011346Z">
         <seg>实力一点也不假。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>実力を持つ侵入者が現れるようになり 彼女は次第に勝つことができなくなってしまいました。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T103758Z" creationid="土妹子" creationdate="20160104T103758Z">
+        <seg>不断出现有实力的入侵者　她逐渐变得无法取胜了。</seg>
       </tuv>
     </tu>
     <tu>
