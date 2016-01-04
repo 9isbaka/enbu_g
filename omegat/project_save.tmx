@@ -48886,6 +48886,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ちょっと歩いてみたけど 魔界と比べると町並みが何だか地味ね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T134749Z" creationid="土妹子" creationdate="20160104T134749Z">
+        <seg>稍微四处走了下看看　总觉得街道和魔界比起来有些土气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ちょっと理解しがたいものがありましたね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T055159Z" creationid="妄想" creationdate="20150107T055159Z">
@@ -52650,6 +52658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T111343Z" creationid="UUZ" creationdate="20140908T091844Z">
         <seg>本以为你好歹会更能打一点呢……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もう少し面白みがあってもいいと思うけど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T134805Z" creationid="土妹子" creationdate="20160104T134805Z">
+        <seg>我是觉得再稍微有趣点也好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66954,6 +66970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150804T042648Z" creationid="UUZ" creationdate="20140909T151637Z">
         <seg>从人类村落一直向西走 就能看到魔法之森。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間の里で暴れると 博麗の巫女がうるさいと思いますが・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T135017Z" creationid="土妹子" creationdate="20160104T135017Z">
+        <seg>在人类村落胡闹的话　博丽巫女会觉得烦的……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -94722,6 +94746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115820Z" creationid="UUZ" creationdate="20141230T115820Z">
         <seg>魔界的创造神</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界の方が何か御用入りですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T134838Z" creationid="土妹子" creationdate="20160104T134838Z">
+        <seg>来自魔界的小姐　您有什么事吗？</seg>
       </tuv>
     </tu>
     <tu>
