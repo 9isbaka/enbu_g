@@ -41438,6 +41438,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんなところに いい特訓相手がいるじゃない！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T113928Z" creationid="土妹子" creationdate="20160104T113928Z">
+        <seg>那个地方不是有不错的特训对象吗！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんなの我慢できない！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T182504Z" creationid="CJ" creationdate="20150521T182504Z">
@@ -78882,6 +78890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T113628Z" creationid="土妹子" creationdate="20160104T113628Z">
         <seg>赶紧开始修行吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>早速・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T113938Z" creationid="土妹子" creationdate="20160104T113938Z">
+        <seg>要赶快……\b</seg>
       </tuv>
     </tu>
     <tu>
