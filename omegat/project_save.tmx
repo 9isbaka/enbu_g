@@ -53702,6 +53702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アイテムID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T075132Z" creationid="土妹子" creationdate="20160104T075132Z">
+        <seg>物品ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>アイドルの</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T154506Z" creationid="土妹子" creationdate="20150107T015735Z">
