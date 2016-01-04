@@ -35566,6 +35566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\pは 負けてしまった・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T093153Z" creationid="土妹子" creationdate="20160104T093153Z">
+        <seg>\p输掉了……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\pは\tを人形箱に入れた。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054256Z" creationid="UUZ" creationdate="20140908T053404Z">
