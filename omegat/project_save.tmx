@@ -83118,6 +83118,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>獣道</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T075421Z" creationid="土妹子" creationdate="20160104T075421Z">
+        <seg>兽道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>獲物を 追う 虎の如く\n素早く 弾幕を 放って\n相手を 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014801Z" creationid="UUZ" creationdate="20140904T145948Z">
