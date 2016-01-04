@@ -66110,6 +66110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形入手</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T073826Z" creationid="土妹子" creationdate="20160104T073826Z">
+        <seg>获得人形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形勝負はタクティクスよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104649Z" creationid="UUZ" creationdate="20150112T133014Z">
