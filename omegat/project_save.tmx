@@ -31030,6 +31030,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cある程度の人数と戦ったら 別の場所へ連れて行ってあげるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T132126Z" creationid="土妹子" creationdate="20160104T132126Z">
+        <seg>\c和一定程度的人战斗之后　就带你去其他的地方了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあんたが寝ている数日間で 人形の数が減ってきているっていう噂が立つようになったのだけれど。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T044456Z" creationid="土妹子" creationdate="20150109T152618Z">
@@ -47782,6 +47790,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>その人形で戦って 勝てたら別の人と戦う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T132058Z" creationid="土妹子" creationdate="20160104T132058Z">
+        <seg>就用那些人形战斗　获胜的话再和别人战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>その人形を手放しなさい！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T130737Z" creationid="140706inu" creationdate="20150411T130737Z">
@@ -48194,6 +48210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191108Z" creationid="CJ" creationdate="20150521T191108Z">
         <seg>而且还有好多只！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>それを繰り返しながら進むのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T132144Z" creationid="土妹子" creationdate="20160104T132144Z">
+        <seg>就不断重复这个过程前进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50210,6 +50234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T091600Z" creationid="土妹子" creationdate="20150108T091600Z">
         <seg>不觉得有些莫名的亲切感吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんだか難しそうね・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T132154Z" creationid="土妹子" creationdate="20160104T132154Z">
+        <seg>总觉得好难啊……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72478,6 +72510,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>大丈夫よ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T132228Z" creationid="土妹子" creationdate="20160104T132228Z">
+        <seg>没关系哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>大切</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -85854,6 +85894,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私でもちゃんとできるかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T132219Z" creationid="土妹子" creationdate="20160104T132219Z">
+        <seg>我能做得到吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私とお人形の見せ合いっこしない？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T125315Z" creationid="140706inu" creationdate="20150512T125315Z">
@@ -89594,6 +89642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T125833Z" creationid="UUZ" creationdate="20140908T122914Z">
         <seg>要走过去太辛苦了 路上还有各种各样的危险……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>行く場所に合わせた人形を用意したの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T132035Z" creationid="土妹子" creationdate="20160104T132035Z">
+        <seg>根据你去的地方已经准备了人形。</seg>
       </tuv>
     </tu>
     <tu>
