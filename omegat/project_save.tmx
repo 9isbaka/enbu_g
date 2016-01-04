@@ -31238,6 +31238,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cけれど いつの頃からでしょうか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T102011Z" creationid="土妹子" creationdate="20160104T102011Z">
+        <seg>\c不过　不知从何时开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cこ これ以上は我が封印が解けてしまう！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150527T005553Z" creationid="UUZ" creationdate="20140908T161918Z">
@@ -33450,6 +33458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T111626Z" creationid="UUZ" creationdate="20140908T095527Z">
         <seg>\c还有穿过强化后的结界的事</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c彼女には 侵入者を追い返すという仕事が与えられており\b たまに負けはするものの 彼女なりに与えられた仕事を満喫していました。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T101954Z" creationid="土妹子" creationdate="20160104T101954Z">
+        <seg>\c她被赋予了驱逐侵入者的工作\b尽管有时候也会输 但她很享受这份工作。</seg>
       </tuv>
     </tu>
     <tu>
