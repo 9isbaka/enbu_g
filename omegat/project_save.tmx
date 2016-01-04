@@ -35310,6 +35310,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\oユキ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T104308Z" creationid="土妹子" creationdate="20160104T104308Z">
+        <seg>\o雪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\oルイズ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T104250Z" creationid="土妹子" creationdate="20160104T104250Z">
+        <seg>\o露易兹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\oルナ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030400Z" creationid="土妹子" creationdate="20150108T030400Z">
@@ -41094,6 +41110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら何事？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T104255Z" creationid="土妹子" creationdate="20160104T104255Z">
+        <seg>啊啦　什么事？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら強いのね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T160307Z" creationid="土妹子" creationdate="20150110T023343Z">
@@ -41714,6 +41738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T190407Z" creationid="土妹子" creationdate="20150108T145031Z">
         <seg>明白了没？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いきなりね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T104304Z" creationid="土妹子" creationdate="20160104T104304Z">
+        <seg>这么突然呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -46170,6 +46202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="妄想" creationdate="20150107T021332Z">
         <seg>那么 要继续加油了哦~！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さぁルイズ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T104231Z" creationid="土妹子" creationdate="20160104T104231Z">
+        <seg>喂　露易兹！</seg>
       </tuv>
     </tu>
     <tu>
@@ -67662,6 +67702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何って修行をするのよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T104525Z" creationid="土妹子" creationdate="20160104T104525Z">
+        <seg>不管怎样要修行！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何でもひっくり返す程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T105601Z" creationid="土妹子" creationdate="20150127T120207Z">
@@ -83562,6 +83610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035327Z" creationid="土妹子" creationdate="20150105T035327Z">
         <seg>是异世界哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異世界を案内してちょうだい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T104245Z" creationid="土妹子" creationdate="20160104T104245Z">
+        <seg>异世界带路就拜托你了！</seg>
       </tuv>
     </tu>
     <tu>
