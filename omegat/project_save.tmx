@@ -59798,6 +59798,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ハクタクけいね</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T075008Z" creationid="土妹子" creationdate="20160104T075008Z">
+        <seg>白泽慧音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ハクタク化</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094500Z" creationid="土妹子" creationdate="20141231T094500Z">
@@ -78118,6 +78126,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>操作不可</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T074840Z" creationid="土妹子" creationdate="20160104T074840Z">
+        <seg>无法操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>擬態</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T152737Z" creationid="UUZ" creationdate="20150105T152737Z">
@@ -80862,6 +80878,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>毒矢</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T075020Z" creationid="土妹子" creationdate="20160104T075020Z">
+        <seg>毒箭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>毒矢。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152805Z" creationid="土妹子" creationdate="20150102T152805Z">
@@ -81498,6 +81522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T091434Z" creationid="UUZ" creationdate="20140906T091434Z">
         <seg>冰狱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>氷雪世界</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160104T074826Z" creationid="土妹子" creationdate="20160104T074826Z">
+        <seg>冰雪世界</seg>
       </tuv>
     </tu>
     <tu>
