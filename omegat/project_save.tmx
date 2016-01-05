@@ -37470,6 +37470,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>……これ あなたの表情なの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T063816Z" creationid="土妹子" creationdate="20160105T063816Z">
+        <seg>这个　是你的表情吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>……こんな感じでいいの？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T124137Z" creationid="UUZ" creationdate="20140908T162205Z">
@@ -41366,6 +41374,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あれ 怖い般若をつけたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T063808Z" creationid="土妹子" creationdate="20160105T063808Z">
+        <seg>啊啦　换上可怕的般若面了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あれ 私好きだったんですよね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T144412Z">
@@ -43626,6 +43642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T112605Z" creationid="140706inu" creationdate="20150417T131336Z">
         <seg>要是我生前能遇到你这样的人……！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お前は我々から感情を盗もうと言うのか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T063749Z" creationid="土妹子" creationdate="20160105T063749Z">
+        <seg>你是说要偷走我们的感情吗！</seg>
       </tuv>
     </tu>
     <tu>
@@ -64174,6 +64198,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・ええ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T064144Z" creationid="土妹子" creationdate="20160105T064144Z">
+        <seg>……诶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・え？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030205Z" creationid="土妹子" creationdate="20150108T030205Z">
@@ -67766,6 +67798,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>今度は何だか褒められてしまった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T064137Z" creationid="土妹子" creationdate="20160105T064137Z">
+        <seg>这次是被好好地赞美了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>今度は妖怪の山っていう場所らしいわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T015024Z" creationid="土妹子" creationdate="20160105T015024Z">
@@ -68306,6 +68346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150409T170154Z" creationid="140706inu" creationdate="20150409T170154Z">
         <seg>你都做了什么啊—！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何たる非礼！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T063755Z" creationid="土妹子" creationdate="20160105T063755Z">
+        <seg>真是无比非礼！</seg>
       </tuv>
     </tu>
     <tu>
@@ -72570,6 +72618,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T123036Z" creationid="土妹子" creationdate="20150109T123036Z">
         <seg>奇怪的人类呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>変わっているわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T063820Z" creationid="土妹子" creationdate="20160105T063820Z">
+        <seg>真奇怪呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>変わっている？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T064119Z" creationid="土妹子" creationdate="20160105T064119Z">
+        <seg>奇怪？</seg>
       </tuv>
     </tu>
     <tu>
