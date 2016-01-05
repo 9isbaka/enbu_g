@@ -33870,6 +33870,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c私が雪の世界に・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T090052Z" creationid="土妹子" creationdate="20160105T090052Z">
+        <seg>\c我在雪之世界里……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c私たちは 光学迷彩 を手に入れなきゃいけないんでしょ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T183930Z" creationid="CJ" creationdate="20150522T183930Z">
@@ -52146,6 +52154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T102152Z" creationid="土妹子" creationdate="20150109T161447Z">
         <seg>好了 客人到该回去的时间了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ほら くだらないこと言ってないで修行っ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T090249Z" creationid="土妹子" creationdate="20160105T090249Z">
+        <seg>喂　别说没用的了　修行！</seg>
       </tuv>
     </tu>
     <tu>
@@ -91178,6 +91194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T095136Z" creationid="土妹子" creationdate="20150116T162916Z">
         <seg>会认真听从指示 很方便使唤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>言っておくけど 駄洒落なんかじゃないわよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T090222Z" creationid="土妹子" creationdate="20160105T090216Z">
+        <seg>无聊的笑话就别说了哦？</seg>
       </tuv>
     </tu>
     <tu>
