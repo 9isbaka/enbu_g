@@ -46446,6 +46446,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>さぁどこにでも私を連れて行きなさい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T065148Z" creationid="土妹子" creationdate="20160105T065148Z">
+        <seg>那么　不管是哪里都请带我去吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さぁまだまだ続くぞ頑張るねー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="妄想" creationdate="20150107T021332Z">
@@ -50182,10 +50190,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どんな奴でも パパッと私が倒してあげるわっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T065110Z" creationid="土妹子" creationdate="20160105T065110Z">
+        <seg>不管是怎样的家伙　我都会啪啪地打倒！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どんな衣装がいいかしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T190014Z" creationid="CJ" creationdate="20150522T190014Z">
         <seg>喜欢怎样的服装？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>な なんか雰囲気変わった？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T065225Z" creationid="土妹子" creationdate="20160105T065225Z">
+        <seg>气　气氛有点奇怪？</seg>
       </tuv>
     </tu>
     <tu>
@@ -53266,6 +53290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092537Z" creationid="妄想" creationdate="20150203T033345Z">
         <seg>我会变得更强的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もっと手ごわそうな奴がいるところかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T065056Z" creationid="土妹子" creationdate="20160105T065056Z">
+        <seg>大概是有更难对付的家伙的地方吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63366,6 +63398,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>リクエストはあるのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T065001Z" creationid="土妹子" creationdate="20160105T065001Z">
+        <seg>有要求吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>リグル</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135906Z" creationid="UUZ" creationdate="20140904T135906Z">
@@ -72670,6 +72710,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>変わった場所ね・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T064953Z" creationid="土妹子" creationdate="20160105T064953Z">
+        <seg>其他的地方呢……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>変わっているわね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T063820Z" creationid="土妹子" creationdate="20160105T063820Z">
@@ -75202,6 +75250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T161711Z" creationid="土妹子" creationdate="20150110T022054Z">
         <seg>能稍微帮个忙吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>少し薄暗くて ジメジメしているわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T065258Z" creationid="土妹子" creationdate="20160105T065258Z">
+        <seg>稍微有些暗　感觉阴湿的样子呢。</seg>
       </tuv>
     </tu>
     <tu>
