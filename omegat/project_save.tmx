@@ -48246,6 +48246,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それは便利ね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T021330Z" creationid="土妹子" creationdate="20160105T021330Z">
+        <seg>这可真方便！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それは色々と苦労しそうだね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T101042Z" creationid="UUZ" creationdate="20140909T160353Z">
@@ -52922,6 +52930,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="140706inu" creationdate="20150407T063531Z">
         <seg>万一遇上的话 我觉得还是逃走比较好哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もし前の場所に戻って対戦したかったら 私に話しかけてちょうだい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T020925Z" creationid="土妹子" creationdate="20160105T020925Z">
+        <seg>如果想回到之前的地方对战的话　就请和我对话。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80054,6 +80070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>本当ルイズがいてくれて大助かりだわ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T021347Z" creationid="土妹子" creationdate="20160105T021347Z">
+        <seg>有露易兹在可真是帮大忙了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>本日のオススメメニュー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143912Z" creationid="UUZ" creationdate="20140908T143912Z">
@@ -89938,6 +89962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>去吧！ %s！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>行ったことのある場所なら 自由に連れて行ってあげることができるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20160105T021324Z" creationid="土妹子" creationdate="20160105T021324Z">
+        <seg>只要是去过的地方　就可以自由地带你去哦。</seg>
       </tuv>
     </tu>
     <tu>
