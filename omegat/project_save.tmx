@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>%s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20160109T074300Z" creationid="UUZ" creationdate="20160109T074300Z">
+        <seg>%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>%s %d個</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -30314,6 +30322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T055545Z" creationid="UUZ" creationdate="20140908T055545Z">
         <seg>Y按钮(C键)可以乘上自行车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\\b\\c</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20160109T074259Z" creationid="UUZ" creationdate="20160109T074259Z">
+        <seg>\\b\\c</seg>
       </tuv>
     </tu>
     <tu>
@@ -76802,6 +76818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154617Z" creationid="UUZ" creationdate="20150530T154617Z">
         <seg>幻想人形演舞 ver1.33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想人形演舞外伝</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20160109T074257Z" creationid="UUZ" creationdate="20160109T074257Z">
+        <seg>幻想人形演舞外传</seg>
       </tuv>
     </tu>
     <tu>

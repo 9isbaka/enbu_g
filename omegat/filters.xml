@@ -8,7 +8,7 @@
     </filter>
     <filter className="org.omegat.filters2.text.csv.GeneralCSVFilter" enabled="true">
         <files sourceFilenameMask="*.csv" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
-        <files sourceFilenameMask="*.utf16" targetFilenamePattern="${filename}" sourceEncoding="UTF-16" targetEncoding="UTF-16"/>
+        <files sourceFilenameMask="*.utf16" targetFilenamePattern="${filename}" sourceEncoding="UTF-16LE" targetEncoding="UTF-16LE"/>
     </filter>
     <filter className="org.omegat.filters4.gnenbu.dbs.GnenbuDollDataFilter" enabled="true">
         <files sourceFilenameMask="*.dbs" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
