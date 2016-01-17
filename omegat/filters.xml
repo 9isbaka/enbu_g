@@ -22,6 +22,9 @@
     <filter className="org.omegat.filters4.gnenbu.dod.GnenbuOperatorFilter" enabled="true">
         <files sourceFilenameMask="*.dod" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
     </filter>
+    <filter className="org.omegat.filters4.gnenbu.pts.GnenbuPartiesFilter" enabled="true">
+        <files sourceFilenameMask="*.pts" targetFilenamePattern="${filename}" sourceEncoding="Shift_JIS" targetEncoding="GBK"/>
+    </filter>
     <filter className="org.omegat.filters3.xml.xliff.XLIFFFilter" enabled="false"/>
     <filter className="org.omegat.filters3.xml.infix.InfixFilter" enabled="false"/>
     <filter className="org.omegat.filters2.mozlang.MozillaLangFilter" enabled="false"/>
