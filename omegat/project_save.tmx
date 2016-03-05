@@ -56902,6 +56902,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>キャンセル</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20160305T042150Z" creationid="UUZ" creationdate="20160305T042150Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>キャンセルする場合は[Esc]を押してください。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
